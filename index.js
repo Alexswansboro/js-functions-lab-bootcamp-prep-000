@@ -2,5 +2,5 @@ function happyHolidays (string) {
 return "Happy holidays!"
 }
 function happyHolidaysTo (string, firstName) {
-  console.log
+  console.log(`$(string), $(firstName)
 }
