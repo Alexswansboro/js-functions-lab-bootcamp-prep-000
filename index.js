@@ -1,6 +1,6 @@
-function happyHolidays (string) {
+function happyHolidays () {
 return "Happy holidays!"
 }
-function happyHolidaysTo (string, name) {
-  console.log(`$(string), $(name)`)
+function happyHolidaysTo (name) {
+  return `"Happy holidays, $(name)`)
 }
